@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cardmodule/static/css/main.14c16f18.chunk.css",
+    "main.js": "/cardmodule/static/js/main.65cf8033.chunk.js",
+    "main.js.map": "/cardmodule/static/js/main.65cf8033.chunk.js.map",
+    "runtime-main.js": "/cardmodule/static/js/runtime-main.b7d91642.js",
+    "runtime-main.js.map": "/cardmodule/static/js/runtime-main.b7d91642.js.map",
+    "static/js/2.97a2b0e9.chunk.js": "/cardmodule/static/js/2.97a2b0e9.chunk.js",
+    "static/js/2.97a2b0e9.chunk.js.map": "/cardmodule/static/js/2.97a2b0e9.chunk.js.map",
+    "index.html": "/cardmodule/index.html",
+    "precache-manifest.ef3bde05b3c79e8438bde4743ee96ccf.js": "/cardmodule/precache-manifest.ef3bde05b3c79e8438bde4743ee96ccf.js",
+    "service-worker.js": "/cardmodule/service-worker.js",
+    "static/css/main.14c16f18.chunk.css.map": "/cardmodule/static/css/main.14c16f18.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7d91642.js",
+    "static/js/2.97a2b0e9.chunk.js",
+    "static/css/main.14c16f18.chunk.css",
+    "static/js/main.65cf8033.chunk.js"
+  ]
+}
